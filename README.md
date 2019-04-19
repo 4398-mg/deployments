@@ -1,5 +1,5 @@
 # Ansible Deployments
-This folder contains ansible roles and overhead files for automating deployment of TheWimbo Application
+This folder contains ansible roles and overhead files for automating deployment of TheWimbo Application.
 Roles contain their own README files.
 
 ## Typical use
